@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![HEKOCMOC's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEKOCMOC&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEKOCMOC&layout=compact&theme=github_dark)](https://github.com/HEKOCMOC/github-readme-stats)
