@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Egor
+### <img src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width="30"> Hi there, I'm Egor
 
 <!--
 **HEKOCMOC/HEKOCMOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
