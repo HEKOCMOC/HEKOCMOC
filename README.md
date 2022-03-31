@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <p>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=HEKOCMOC&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D">
     <img src="https://github-readme-stats.vercel.app/api?username=HEKOCMOC&show_icons=true&theme=great-gatsby&hide_rank=False&custom_title=Stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKOCMOC&layout=compact&theme=great-gatsby">
+    <img src="https://activity-graph.herokuapp.com/graph?username=HEKOCMOC&theme=elegant" height="270px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKOCMOC&layout=compact&theme=great-gatsby">
 </p>
 
 ----
