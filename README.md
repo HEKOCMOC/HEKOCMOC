@@ -1,4 +1,9 @@
-<h1 align="center">Welcome to my GitHub profile!</a> </h1>
+<h1 align="center">Welcome to my GitHub profile!</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3200&color=F7BF2E&center=true&multiline=true&width=800&height=150&lines=My+name+is+Egor+Gershevskiy;I'm+Data+Engineer;I'm+currently+studying+at+the+Data+Science" </a>
+</p>
 
 <!--
 **HEKOCMOC/HEKOCMOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,17 +25,6 @@ Here are some ideas to get you started:
 <p>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=HEKOCMOC&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D">
     <img src="https://github-readme-stats.vercel.app/api?username=HEKOCMOC&show_icons=true&theme=great-gatsby&hide_rank=False&custom_title=Stats">
-    <img src="https://activity-graph.herokuapp.com/graph?username=HEKOCMOC&theme=elegant" height="270px">
+    <img src="https://activity-graph.herokuapp.com/graph?username=HEKOCMOC&bg_color=000000&line=ED7409&point=EDD809&color=DFA90C&hide_title=true" height="270px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKOCMOC&layout=compact&theme=great-gatsby">
 </p>
-
-----
-
-### :hammer_and_wrench: Most used Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
-</div>
