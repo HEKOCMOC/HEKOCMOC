@@ -1,8 +1,5 @@
-<h1 align="center">Welcome to my GitHub profile!</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3200&color=F7BF2E&center=true&multiline=true&width=800&height=150&lines=My+name+is+Egor+Gershevskiy;I'm+Data+Engineer;I'm+currently+studying+at+the+Data+Science" </a>
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7BF2E&center=true&multiline=true&width=800&height=150&lines=Welcome+to+my+GitHub+profile!;My+name+is+Egor+Gershevskiy;I'm+Data+Engineer;I'm+currently+studying+at+the+Data+Science" </a>
 </p>
 
 <!--
