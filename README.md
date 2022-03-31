@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HEKOCMOC&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HEKOCMOC&show_icons=true&theme=great-gatsby)](https://github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEKOCMOC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=HEKOCMOC&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://github-readme-stats.vercel.app/api?username=HEKOCMOC&show_icons=true&theme=great-gatsby&hide_rank=False&custom_title=Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKOCMOC&layout=compact&theme=great-gatsby">
+</p>
 
 ----
 
