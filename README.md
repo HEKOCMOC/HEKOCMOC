@@ -27,6 +27,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKOCMOC&layout=compact&theme=great-gatsby">
     <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="140px">
 </p>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
